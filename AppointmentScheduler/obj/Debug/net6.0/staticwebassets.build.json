@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jfuqnbW9qgIDkSIQApnevVGrJJgs8Q1a4rYyGeUQw7I=",
+  "Hash": "OW7c9JFGxQUu/Qnpx2kwm8pacz8+y8i40CuK+x+eNnA=",
   "Source": "AppointmentScheduler",
   "BasePath": "_content/AppointmentScheduler",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Documents\\C# Code\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\js\\notify.min.js",
+      "SourceId": "AppointmentScheduler",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Documents\\C# Code\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
+      "BasePath": "_content/AppointmentScheduler",
+      "RelativePath": "js/notify.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\notify.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Asus\\Documents\\C# Code\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\js\\script-custom-calendar.js",
+      "SourceId": "AppointmentScheduler",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asus\\Documents\\C# Code\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\",
+      "BasePath": "_content/AppointmentScheduler",
+      "RelativePath": "js/script-custom-calendar.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script-custom-calendar.js"
     },
     {
       "Identity": "C:\\Users\\Asus\\Documents\\C# Code\\AppointmentScheduler\\AppointmentScheduler\\wwwroot\\js\\site.js",
